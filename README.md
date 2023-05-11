@@ -20,4 +20,12 @@
 המערכת תאפשר למשתמש ליצור אובייקטים נוספים עד שיבחר ב- 3 ליציאה מהתוכנית.
 
 # תלויות חיצוניות: 
+The basic dependencies you'll have are the .NET Framework libraries. These libraries come pre-installed with the .NET development environment. you need that libaries to use that project:
 
+1. .NET Framework: The .NET Framework provides a comprehensive set of libraries and runtime components for building and running applications on Windows. It includes libraries for common functionalities like file I/O, networking, data access, and more.
+
+2. System namespace: The System namespace is part of the .NET Framework and contains fundamental classes and base types that are used in most .NET applications. It includes classes for handling strings, collections, exceptions, input/output, and more.
+
+3. System.IO namespace: The System.IO namespace provides classes for working with input and output operations, including file and directory manipulation, stream handling, and reading/writing data.
+
+These are the core dependencies that come with the .NET Framework and are available by default in Visual Studio for C# projects.
