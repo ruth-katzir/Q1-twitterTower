@@ -7,6 +7,7 @@
 המערכת מאפשרת למשתמש לבחור ביצירת אובייקט מסוג משולש, בלחיצה על 1 או אובייקט מסוג מלבן בלחיצה על 2 בהרצת התוכנית וכן מבקשת מהמשתמש להכניס את רוחבו וגובהו של המגדל הנדרש.
 עבור מגדל מסוג משולש:
 ![image](https://github.com/ruth-katzir/Q1-twitterTower/assets/133040769/72d72cce-cce3-4042-ae5f-07b2d64b97f6)
+
 עבור מגדל מסוג מלבן:
 ![image](https://github.com/ruth-katzir/Q1-twitterTower/assets/133040769/fff9e914-38db-41f3-84d0-1b053aa5f38a)
 
